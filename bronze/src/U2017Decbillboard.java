@@ -14,8 +14,8 @@ public class U2017Decbillboard {
 
 	
 public static void init() throws IOException {
-	in = new Scanner(new FileReader("paint.in"));
-	out = new PrintWriter(new FileWriter("paint.out"));
+	in = new Scanner(new FileReader("billboard.in"));
+	out = new PrintWriter(new FileWriter("billboard.out"));
 	b1 = new int[4];
 	b2 = new int[4];
 	t = new int[4];
